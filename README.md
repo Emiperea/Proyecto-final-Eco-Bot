@@ -16,7 +16,6 @@ Además, se incluirán funciones complementarias de trivia, datos curiosos, desa
 **1. Consejos ambientales**
 El bot compartirá consejos para reducir residuos, ahorrar agua y electricidad, reciclar y consumir de manera responsable.
 
-Ejemplo de comando: !consejo
 **2. Eco-calculadora de energía**
 El usuario podrá ingresar la potencia de un aparato en watts y las horas de uso para calcular su consumo eléctrico aproximado en kilovatios-hora (kWh). También recibirá sugerencias para reducir el consumo.
 
