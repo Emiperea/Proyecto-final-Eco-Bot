@@ -20,7 +20,6 @@ Ejemplo de comando: !consejo
 **2. Eco-calculadora de energía**
 El usuario podrá ingresar la potencia de un aparato en watts y las horas de uso para calcular su consumo eléctrico aproximado en kilovatios-hora (kWh). También recibirá sugerencias para reducir el consumo.
 
-Ejemplo de comando: !energia
 **3. Diario ecológico**
 Utilizariamos la estructura del diario personal, no esta definida que funcion exacta tendra, pero un ejemplo seria que cada usuario podría registrar acciones positivas para el medio ambiente, y combinarlo tal vez con un sistema de puntaje en la comunidad. Los registros se guardarán en una base de datos para poder consultar el historial.
 
